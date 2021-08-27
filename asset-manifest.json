@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ApparelsShop/static/css/main.e1ef5518.chunk.css",
-    "main.js": "/ApparelsShop/static/js/main.0af35e54.chunk.js",
-    "main.js.map": "/ApparelsShop/static/js/main.0af35e54.chunk.js.map",
+    "main.js": "/ApparelsShop/static/js/main.38391508.chunk.js",
+    "main.js.map": "/ApparelsShop/static/js/main.38391508.chunk.js.map",
     "runtime-main.js": "/ApparelsShop/static/js/runtime-main.790ff3ed.js",
     "runtime-main.js.map": "/ApparelsShop/static/js/runtime-main.790ff3ed.js.map",
     "static/js/2.1005a7e5.chunk.js": "/ApparelsShop/static/js/2.1005a7e5.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.790ff3ed.js",
     "static/js/2.1005a7e5.chunk.js",
     "static/css/main.e1ef5518.chunk.css",
-    "static/js/main.0af35e54.chunk.js"
+    "static/js/main.38391508.chunk.js"
   ]
 }
