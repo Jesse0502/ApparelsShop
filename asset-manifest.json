@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ApparelsShop/static/css/main.465d1dca.chunk.css",
-    "main.js": "/ApparelsShop/static/js/main.950133a9.chunk.js",
-    "main.js.map": "/ApparelsShop/static/js/main.950133a9.chunk.js.map",
+    "main.css": "/ApparelsShop/static/css/main.e1ef5518.chunk.css",
+    "main.js": "/ApparelsShop/static/js/main.0c274911.chunk.js",
+    "main.js.map": "/ApparelsShop/static/js/main.0c274911.chunk.js.map",
     "runtime-main.js": "/ApparelsShop/static/js/runtime-main.790ff3ed.js",
     "runtime-main.js.map": "/ApparelsShop/static/js/runtime-main.790ff3ed.js.map",
-    "static/js/2.dc614a2e.chunk.js": "/ApparelsShop/static/js/2.dc614a2e.chunk.js",
-    "static/js/2.dc614a2e.chunk.js.map": "/ApparelsShop/static/js/2.dc614a2e.chunk.js.map",
+    "static/js/2.1005a7e5.chunk.js": "/ApparelsShop/static/js/2.1005a7e5.chunk.js",
+    "static/js/2.1005a7e5.chunk.js.map": "/ApparelsShop/static/js/2.1005a7e5.chunk.js.map",
     "index.html": "/ApparelsShop/index.html",
-    "static/css/main.465d1dca.chunk.css.map": "/ApparelsShop/static/css/main.465d1dca.chunk.css.map",
-    "static/js/2.dc614a2e.chunk.js.LICENSE.txt": "/ApparelsShop/static/js/2.dc614a2e.chunk.js.LICENSE.txt",
+    "static/css/main.e1ef5518.chunk.css.map": "/ApparelsShop/static/css/main.e1ef5518.chunk.css.map",
+    "static/js/2.1005a7e5.chunk.js.LICENSE.txt": "/ApparelsShop/static/js/2.1005a7e5.chunk.js.LICENSE.txt",
     "static/media/earrings1.bb521ef6.jpg": "/ApparelsShop/static/media/earrings1.bb521ef6.jpg",
     "static/media/earrings2.581294f1.jpg": "/ApparelsShop/static/media/earrings2.581294f1.jpg",
     "static/media/giphy.c0714ab8.webp": "/ApparelsShop/static/media/giphy.c0714ab8.webp",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.790ff3ed.js",
-    "static/js/2.dc614a2e.chunk.js",
-    "static/css/main.465d1dca.chunk.css",
-    "static/js/main.950133a9.chunk.js"
+    "static/js/2.1005a7e5.chunk.js",
+    "static/css/main.e1ef5518.chunk.css",
+    "static/js/main.0c274911.chunk.js"
   ]
 }
