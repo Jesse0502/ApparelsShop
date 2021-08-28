@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ApparelsShop/static/css/main.e1ef5518.chunk.css",
-    "main.js": "/ApparelsShop/static/js/main.801d3c8c.chunk.js",
-    "main.js.map": "/ApparelsShop/static/js/main.801d3c8c.chunk.js.map",
+    "main.css": "/ApparelsShop/static/css/main.e40eb70e.chunk.css",
+    "main.js": "/ApparelsShop/static/js/main.6682a7f0.chunk.js",
+    "main.js.map": "/ApparelsShop/static/js/main.6682a7f0.chunk.js.map",
     "runtime-main.js": "/ApparelsShop/static/js/runtime-main.790ff3ed.js",
     "runtime-main.js.map": "/ApparelsShop/static/js/runtime-main.790ff3ed.js.map",
     "static/js/2.0cf3cdba.chunk.js": "/ApparelsShop/static/js/2.0cf3cdba.chunk.js",
     "static/js/2.0cf3cdba.chunk.js.map": "/ApparelsShop/static/js/2.0cf3cdba.chunk.js.map",
     "index.html": "/ApparelsShop/index.html",
-    "static/css/main.e1ef5518.chunk.css.map": "/ApparelsShop/static/css/main.e1ef5518.chunk.css.map",
+    "static/css/main.e40eb70e.chunk.css.map": "/ApparelsShop/static/css/main.e40eb70e.chunk.css.map",
     "static/js/2.0cf3cdba.chunk.js.LICENSE.txt": "/ApparelsShop/static/js/2.0cf3cdba.chunk.js.LICENSE.txt",
     "static/media/earrings1.bb521ef6.jpg": "/ApparelsShop/static/media/earrings1.bb521ef6.jpg",
     "static/media/earrings2.581294f1.jpg": "/ApparelsShop/static/media/earrings2.581294f1.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.790ff3ed.js",
     "static/js/2.0cf3cdba.chunk.js",
-    "static/css/main.e1ef5518.chunk.css",
-    "static/js/main.801d3c8c.chunk.js"
+    "static/css/main.e40eb70e.chunk.css",
+    "static/js/main.6682a7f0.chunk.js"
   ]
 }
